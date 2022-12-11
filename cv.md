@@ -4,6 +4,7 @@ _Last Name:_ Orzhenikova
 _Date of birth:_ 18th Jan 2000
 _Address:_ 88 Mira Аvenue, apt. 58, Omsk, 644077, Russia.
 _Email:_ <orzhenikova.regina@gmail.com>
+_Discord:_ <https://discordapp.com/users/1049334329223954442/>
 ***
 ###Objectiv
 I liked making up the layout of the site, so I wanted to deepen my knowledge in this area. I will try to learn and get better.
