@@ -1,0 +1,166 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  outline: none;
+  font-family: Arial, Tahoma, Verdana, sans-serif;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.header {
+  margin: 0 auto;
+  padding-top: 85px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: 980px;
+  background-color: #ce98d3;
+}
+
+.navigation-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 980px;
+}
+
+.navigation-item a {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #333;
+}
+
+a:hover {
+  color: #2f002a;
+}
+
+.personal {
+  margin: 0 auto;
+  margin-top: 60px;
+  padding-left: 20px;
+  width: 980px;
+  border: 2px solid #000;
+  border-radius: 0 20px;
+  margin-bottom: 20px;
+}
+
+.heading {
+  font-size: 25px;
+  font-style: italic;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.main_text {
+  padding-top: 15px;
+  padding-bottom: 10px;
+  color: #333;
+}
+
+.me-plus-photo {
+  display: flex;
+}
+
+.right-img {
+  padding-left: 300px;
+}
+
+ .italic {
+  font-style: italic;
+ }
+
+ .objectiv {
+  width: 980px;
+  margin: 0 auto;
+  padding-left: 20px;
+  border: 2px solid #000;
+  border-radius: 20px;
+  margin-bottom: 20px;
+ }
+
+ .education {
+  width: 980px;
+  margin: 0 auto;
+  padding-left: 20px;
+  border: 2px solid #000;
+  border-radius: 20px;
+  margin-bottom: 20px;
+ }
+
+.skills {
+  width: 960px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-right: 30px;
+  border: 2px solid #000;
+  border-radius: 20px 0;
+  margin-bottom: 20px;
+}
+
+ .skill-list {
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 980px;
+ }
+
+ h2 {
+  font-size: 19px;
+  color: rgb(45, 18, 27);
+  margin-bottom: 10px;
+ }
+
+.skill-item {
+  list-style-type: square;
+}
+
+.code_example {
+  width: 990px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #f2b3f8;
+}
+
+.work_experience {
+  width: 990px;
+  margin: 0 auto;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  background-color: #dea5e4;
+}
+
+.footer {
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: row;
+  width: 980px;
+  background-color: #ce98d3;
+}
+
+.nav-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 980px;
+}
+
+.logo {
+  background-image: url("images/rs_school_js.svg");
+  background-repeat: no-repeat;
+}
+
+
